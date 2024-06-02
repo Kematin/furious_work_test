@@ -28,7 +28,7 @@ def make_item_description(item):
         + desc
         + "\n\n"
         + f"Количество: {counts}\n"
-        + f"Цена: <b>{price}</b>"
+        + f"Цена: <b>{price}</b> ₽"
     )
     return desc_text
 
@@ -45,6 +45,6 @@ def make_cart_description(item):
         + desc
         + "\n\n"
         + f"Количество: {counts}\n"
-        + f"Общая сумма: <b>{price}</b>"
+        + f"Общая сумма: <b>{price}</b> ₽"
     )
     return desc_text

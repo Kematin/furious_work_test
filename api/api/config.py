@@ -12,7 +12,7 @@ class Settings(BaseSettings):
     DB_USER: str
     DB_PASS: str
     DB_PORT: str
-    DEBUG: bool = False
+    DEBUG: bool = True
 
     class Config:
         __file_dir = Path(__file__).resolve().parent
