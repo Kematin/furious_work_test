@@ -11,7 +11,9 @@
 Выполнено по тестовому заданию:
 ![img](test.png)
 
+# Примеры (больше в [examples](examples/))
 
 ![img](start.png)
 
-Больше примеров в examples
+![img](examples/category_example.png)
+
